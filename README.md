@@ -46,9 +46,11 @@
 <img src="Docs/game2/3.jpeg" width="240">
 </p>
 
-1. [M_, M_] · [Write what screenshot 1 shows]
-2. [M_, M_] · [Write what screenshot 2 shows]
-3. [M_, M_] · [Write what screenshot 3 shows]
+1. [M1, M2, M3, M4] · Shows an active level where sun is managed to place different plants across lanes, including Sunflowers for resource production and defensive plants with different roles.
+
+2. [M7] · Shows the world map and level progression, where the player selects the next stage to continue progressing through the game.
+
+3. [M1, M2, M4, M5] · Shows an active battle where different plants are positioned across lanes to defend against approaching zombies with different properties and threats.
 
 | # | Mechanic | Dynamic | Aesthetic | Bartle type |
 |---|---|---|---|---|
@@ -71,8 +73,8 @@
 
 | Level | Screenshot | Its idea | Wayfinding tool |
 |---|---|---|---|
-| Level01 | <img src="Docs/levels/level01.png" width="320"> | | |
-| Level02 | <img src="Docs/levels/level02.png" width="320"> | | |
+| Level01 | <img src="Docs/levels/level01.png" width="320"> | The Idea here is you have to find the key to open the door to the goal. | Wayfinding tools is basically look for coins, followings coins lead to finding key to the door |
+| Level02 | <img src="Docs/levels/level02.png" width="320"> | The idea here is a small shooting range for practice, kill all the moving targets within a given time otherwise killed enemies respawn. Killing the enemies within given time leads to obstacles being removed so now the player can run to the goal| Way finding mechanism is you're given a gun upon start of the round so you'd know you have to kill the moving targets, later a text box would also appear explaining killing enemies in given time removed obstacles and opens door to goal.|
 | Level03 | <img src="Docs/levels/level03.png" width="320"> | | |
 | Level04 | <img src="Docs/levels/level04.png" width="320"> | | |
 | Level05 | <img src="Docs/levels/level05.png" width="320"> | | |
